@@ -1,4 +1,6 @@
 ### ![hi, i'm henry](heading.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thabnir)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **thabnir/thabnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
