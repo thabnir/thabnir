@@ -1,4 +1,4 @@
-<h1 align="left">hi, i'm henry</h1>
+<h1 align="left">Hi, I'm Henry</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/henry-lefebvre-b1897b22a" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/linkedin-2.png" alt="henry-lefebvre-b1897b22a" height="40" width="40" /></a>
