@@ -1,4 +1,4 @@
-### ![hi, i'm henry](banner.png)
+### ![hi, i'm henry](heading.png)
 
 <!--
 **thabnir/thabnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
