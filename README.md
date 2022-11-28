@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm Henry</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/henry-lefebvre-b1897b22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henry-lefebvre-b1897b22a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/henry-lefebvre-b1897b22a" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/linkedin-2.png" alt="henry-lefebvre-b1897b22a" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
