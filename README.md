@@ -1,3 +1,12 @@
-### ![hi, i'm henry](heading.png)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thabnir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Visitor Count](https://profile-counter.glitch.me/thabnir/count.svg)
+<h1 align="center">hi, i'm Henry</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/henry-lefebvre-b1897b22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henry-lefebvre-b1897b22a" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thabnir&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="thabnir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thabnir&show_icons=true&theme=synthwave&locale=en" alt="thabnir" /></p>
