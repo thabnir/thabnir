@@ -1,5 +1,4 @@
 # Hi, I'm Henry
-Kotlin and Java developer. Dabbling in Rust.
 
 [Personal Website](https://thabnir.github.io/)
 
